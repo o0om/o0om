@@ -46,7 +46,6 @@ A fully custom implementation of the Discord API written in Python. This project
 </p>
 
 Contribution Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=o0om&theme=tokyo-night&area=true&hide_border=true" />
 </p>

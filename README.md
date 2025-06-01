@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&color=C50B00&center=true&vCenter=true&random=true&width=435&lines=++++++++++++++++++Hi+Im+Kain+;%3C3)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&size=40&pause=1000&color=C50B00&center=true&vCenter=true&random=true&width=435&lines=++++++++++++++++++Hi+Im+Kain+%3C3)](https://git.io/typing-svg)
 **Python Developer | Software Engineer | Multi-language Programmer**
 
 ---

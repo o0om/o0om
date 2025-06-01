@@ -39,7 +39,7 @@ A fully custom implementation of the Discord API written in Python. This project
 
 Manual REST and Gateway handling
 
-Native support for interactions and slash commands
+Adding Support for Slash Commands Soon
 
 Precise control over rate limits and payload handling
 

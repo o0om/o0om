@@ -89,6 +89,6 @@ How about some stats
 
 ## Honorable Mentions 
 - The original idea behind this project comes from @440c — go check out his take on discord.py here:
-> github.com/440c/discord.py
+> [github.com/440c/discord.py](https://github.com/440c/discord.py)
 
 His work laid the foundation for what eventually became my own implementation. If you're into low-level Discord bot development or want to see where it all started.

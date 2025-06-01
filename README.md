@@ -45,9 +45,9 @@ A fully custom implementation of the Discord API written in Python. This project
 ---
 
 How about some stats 
-![](https://github-readme-stats.vercel.app/api?username=o0om&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=o0om&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=o0om&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Metrics Full Year Calendar">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=o0om&icon=0&color=0)](https://visitcount.itsvg.in)

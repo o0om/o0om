@@ -46,7 +46,7 @@ A fully custom implementation of the Discord API written in Python. This project
 
 How about some stats 
 <p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Metrics Full Year Calendar">
+  <img src="[https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg](https://raw.githubusercontent.com/o0om/o0om/1ab4d91725ad1d341db0df39bd51c5c0ef6aef4d/github-metrics.svg)" alt="GitHub Metrics Full Year Calendar">
 </p>
 
 ---

@@ -1,17 +1,30 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{ cron: "0 0 * * 0" }] # every Sunday
+  schedule:
+    - cron: "0 0 * * 0" # Every Sunday midnight UTC
   workflow_dispatch:
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Metrics SVG
+        uses: lowlighter/metrics@latest
+        id: metrics
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_isocalendar: "yes"
+          plugin_isocalendar_duration: "full-year"
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          
+
+      - name: Commit and push metrics SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git commit -m "Update GitHub Metrics SVG" || echo "No changes to commit"
+          git push

@@ -10,7 +10,7 @@
 I'm a software developer with a strong focus on Python and practical experience across more than 16 programming languages. I specialize in building custom tooling and backend systems with an emphasis on performance, low-level control, and maintainability.
 
 My most notable project to date is a fully custom implementation of a Discord API wrapper written in Python — developed entirely without relying on existing libraries like `discord.py`.
-https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
+![] (https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 ---
 
 ## Technical Focus

@@ -16,6 +16,8 @@ My most notable project to date is a fully custom implementation of a Discord AP
 </p>
 
 
+![](https://komarev.com/ghpvc/?o0om=your-github-username&color=green)
+
 ---
 
 ## Technical Focus

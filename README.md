@@ -43,6 +43,10 @@ Adding Support for Slash Commands Soon
 
 Precise control over rate limits and payload handling
 
+Enhanced Rate Limiting And Request Handling
+
+No More Useless Requests
+
 Built entirely with <code>asyncio</code> and <code>aiohttp</code>
 
 Structured, modular, and written with type safety in mind

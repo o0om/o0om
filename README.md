@@ -69,3 +69,8 @@ How about some stats
 - GitHub: [github.com/o0om](https://github.com/o0om)
 - Discord: `sadist81`
 - Email: `kain@programmer.net`
+
+
+
+## Friends 
+- Website: https://crucify.ru/

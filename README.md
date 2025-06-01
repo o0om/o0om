@@ -1,4 +1,4 @@
-# Kain
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=880EF7&center=true&vCenter=true&width=435&lines=Hi+Im+Kain+%3C3" alt="Typing SVG" /></a>
 
 **Python Developer | Software Engineer | Multi-language Programmer**
 

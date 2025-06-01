@@ -34,15 +34,22 @@ My most notable project to date is a fully custom implementation of a Discord AP
 
 A fully custom implementation of the Discord API written in Python. This project avoids all existing wrappers and libraries, providing direct interaction with both the REST API and WebSocket Gateway.
 
-**Key Features:**
+<table> <tr> <td>
+<b>Key Features:</b>
 
-- Manual REST and Gateway handling
-- Native support for interactions and slash commands
-- Precise control over rate limits and payload handling
-- Built entirely with `asyncio` and `aiohttp`
-- Structured, modular, and written with type safety in mind
+Manual REST and Gateway handling
 
-> This project demonstrates full-stack bot infrastructure development at the protocol level.
+Native support for interactions and slash commands
+
+Precise control over rate limits and payload handling
+
+Built entirely with <code>asyncio</code> and <code>aiohttp</code>
+
+Structured, modular, and written with type safety in mind
+
+This project demonstrates full-stack bot infrastructure development at the protocol level.
+
+</td> <td> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" alt="Serenity Demo" width="400"/> </td> </tr> </table>
 
 ---
 

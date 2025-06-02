@@ -83,9 +83,6 @@ How about some stats
 
 
 
-## Friends 
-- Website: https://crucify.ru/
-
 
 ## Honorable Mentions 
 - The original idea behind this project comes from @440c — go check out his take on discord.py here:
